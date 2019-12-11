@@ -81,8 +81,8 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slug`,
       node,
-      value
-      // value: value.replace("/artykuly", "")
+      // value
+      value: value.replace("/artykuly", "")
     });
   }
 };
