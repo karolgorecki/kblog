@@ -36,7 +36,7 @@ collections:
     label: "Pages"
     files:
       - file: "src/pages/index.md"
-        label: "Landing Page"
+        label: "Strona Główna"
         name: "index"
         fields:
           - {
@@ -49,16 +49,6 @@ collections:
           - { label: Image, name: image, widget: image }
           - { label: Heading, name: heading, widget: string }
           - { label: Subheading, name: subheading, widget: string }
-          - {
-              label: Mainpitch,
-              name: mainpitch,
-              widget: object,
-              fields:
-                [
-                  { label: Title, name: title, widget: string },
-                  { label: Description, name: description, widget: text },
-                ],
-            }
           - { label: Description, name: description, widget: string }
       - file: "src/pages/o-mnie/index.md"
         label: "O mnie"
