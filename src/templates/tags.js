@@ -16,7 +16,7 @@ class TagRoute extends React.Component {
     const tag = this.props.pageContext.tag;
     const title = this.props.data.site.siteMetadata.title;
     const totalCount = this.props.data.allMarkdownRemark.totalCount;
-    const tagHeader = `${totalCount} artykułow w kategorii “${tag}”`;
+    const tagHeader = `${totalCount} artykułów w kategorii “${tag}”`;
 
     return (
       <Layout>
@@ -31,7 +31,7 @@ class TagRoute extends React.Component {
                 <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
                 <ul className="taglist">{postLinks}</ul>
                 <p>
-                  <Link to="/tagi/">Przeglądaj wszystkie kategorie</Link>
+                  <Link to="/tagi/">Zobacz wszystkie kategorie</Link>
                 </p>
               </div>
             </div>
