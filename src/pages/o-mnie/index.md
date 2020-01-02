@@ -20,9 +20,9 @@ title: Witaj świecie
 
 ### Ma 2 latka. Znalezione nie kradzione 😉
 
-### Swojska kobita z niej, jak była mała to była niej niezły gryzoń. Bunt dwulatka mamy już za sobą, teraz to sama słodycz. Bawi się z Kisielkiem w ganowanym i liczą razem gołębie. Ale spokojnie z dziubków sobie nie jedzą 😆 Jak standardowe rodzeństwo
+### Swojska kobita z niej, jak była mała to była niej niezły gryzoń. Bunt dwulatka mamy już za sobą, teraz to sama słodycz. Bawi się z Kisielkiem w ganianego i liczą razem gołębie. Ale spokojnie z dziubków sobie nie jedzą 😆 Jak standardowe rodzeństwo.
 
-### Jej futerko jest ekstremalnie mięciutkie, głośno domaga się przytyła i nie odrzuca zawsze w południe 😎.
+### Jej futerko jest ekstremalnie mięciutkie, głośno domaga się przytulania. To nasz rytuał zawsze w południe 😎.
 
 # Kisiel 🐾
 
@@ -34,4 +34,4 @@ title: Witaj świecie
 
 ### Ale najbardziej kocha swoją mamusie 😍 czyli mnie 💪
 
-### Bardzo towarzyski, chodzi za mną krok w kroku. Wstaje razem ze mną i chodzi spać też w tym czasie. Nie bierz po nocy bez celu, nie wybieraj z jedzeniem długo przez wymieniać, jest cudowny, ale wiecie co? Warto adoptować dorosłe koty🐾
+### Bardzo towarzyski, chodzi za mną krok w kroku. Wstaje razem ze mną i chodzi spać też w tym czasie. Nie biega po nocy bez celu, nie wybrzydza z jedzeniem długo by wymieniać, jest cudowny, ale wiecie co? Warto adoptować dorosłe koty🐾
