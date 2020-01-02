@@ -2,36 +2,38 @@
 templateKey: about-page
 title: Witaj świecie
 ---
-## Witajcie kotomaniacy na Kocim Blogu gdzie będę pisać o kotkach i dla kotków, nie zabraknie tu wpisów dla ich sługusów. 😆
+## Witajcie kotomaniacy. 
 
-### 🔊 Poznajcie nas bliżej
+Na Kocim Blogu gdzie będę pisać o kotkach i dla kotków, nie zabraknie tu wpisów dla ich sługusów. 😆
 
-### Prowadzę stronę Kociaciocia.foto gdzie są śledzone i się dzieje w kocim świecie Kici i Kisielka.
+🔊 Poznajcie nas bliżej
 
-### Fotografuję przede wszystkim wszystkim, chętnie wspieram adopciaki.
+Prowadzę stronę Kociaciocia.foto gdzie są śledzone i się dzieje w kocim świecie Kici i Kisielka.
 
-### Dziel się doświadczeniem, testuj kocie gadżety, poruszam ważne tematy na temat kotów.
+Fotografuję przede wszystkim wszystkim, chętnie wspieram adopciaki.
 
-### A to wszystko dzięki nim:
+Dziel się doświadczeniem, testuj kocie gadżety, poruszam ważne tematy na temat kotów.
 
-# Kicia 🐾
+A to wszystko dzięki nim:
 
-![](/img/67408356_373416443315872_5509120508722574988_n.jpg)
+## Kicia 🐾
 
-### Ma 2 latka. Znalezione nie kradzione 😉
+![](/img/kicia.jpg)
 
-### Swojska kobita z niej, jak była mała to była niej niezły gryzoń. Bunt dwulatka mamy już za sobą, teraz to sama słodycz. Bawi się z Kisielkiem w ganianego i liczą razem gołębie. Ale spokojnie z dziubków sobie nie jedzą 😆 Jak standardowe rodzeństwo.
+Ma 2 latka. Znalezione nie kradzione 😉
 
-### Jej futerko jest ekstremalnie mięciutkie, głośno domaga się przytulania. To nasz rytuał zawsze w południe 😎.
+Swojska kobita z niej, jak była mała to była niej niezły gryzoń. Bunt dwulatka mamy już za sobą, teraz to sama słodycz. Bawi się z Kisielkiem w ganianego i liczą razem gołębie. Ale spokojnie z dziubków sobie nie jedzą 😆 Jak standardowe rodzeństwo.
 
-# Kisiel 🐾
+Jej futerko jest ekstremalnie mięciutkie, głośno domaga się przytulania. To nasz rytuał zawsze w południe 😎.
 
-![](/img/65824650_2296898113726702_1153373905310808501_n.jpg)
+## Kisiel 🐾
 
-### Ma 6 lat. Jest u nas 2 lata.
+![](/img/kisiel.jpg)
 
-### Kisiel to przyjaciel wszystkich ❤️
+Ma 6 lat. Jest u nas 2 lata.
 
-### Ale najbardziej kocha swoją mamusie 😍 czyli mnie 💪
+Kisiel to przyjaciel wszystkich ❤️
 
-### Bardzo towarzyski, chodzi za mną krok w kroku. Wstaje razem ze mną i chodzi spać też w tym czasie. Nie biega po nocy bez celu, nie wybrzydza z jedzeniem długo by wymieniać, jest cudowny, ale wiecie co? Warto adoptować dorosłe koty🐾
+Ale najbardziej kocha swoją mamusie 😍 czyli mnie 💪
+
+Bardzo towarzyski, chodzi za mną krok w kroku. Wstaje razem ze mną i chodzi spać też w tym czasie. Nie biega po nocy bez celu, nie wybrzydza z jedzeniem długo by wymieniać, jest cudowny, ale wiecie co? Warto adoptować dorosłe koty🐾
