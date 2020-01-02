@@ -1,24 +1,17 @@
 ---
 templateKey: blog-post
 title: Kocie walentynki
-date: 2019-02-14T17:04:17.197Z
+date: 2018-02-14T17:04:00.000Z
 description: >+
   Kocie walentynki czyli słodka sesja zdjęciowa, opakowanie smaczków i próba
   rozbrojenia na części moich pierwszych scenografii.
 
 featuredpost: false
-featuredimage: /img/29351783_2126330154320734_4704824224394806348_o.jpg
+featuredimage: /img/walentynki.jpg
 tags:
   - walentynki
+  - kocia sesja
   - kocie walentynki
-  - koty
-  - kociblog
-  - kociaciocia
-  - valentines
-  - sesjazdjeciowa
-  - kotek
-  - kitty
-  - ''
 ---
 ![](/img/29351783_2126330154320734_4704824224394806348_o.jpg)
 
