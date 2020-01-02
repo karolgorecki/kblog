@@ -1,9 +1,8 @@
 ---
 templateKey: blog-post
-title: Hello World!
-date: 2019-12-14T20:42:50.075Z
+title: Nowy na pokładzie!
+date: 2018-04-03T19:42:00.000Z
 description: |
-  Nowy na pokładzie!
   Śpieszę z radosną nowiną, że mamy nowego osobnika w domu.
 featuredpost: false
 featuredimage: /img/products-grid2.jpg
