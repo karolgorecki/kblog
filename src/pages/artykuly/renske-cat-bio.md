@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Renske CAT BIO
-date: 2020-01-02T22:44:05.575Z
+date: 2019-03-11T22:44:05.575Z
 description: "Kicia pragnie się z wami podzielić swoją opinią na temat karmy Renske Natural Polska wygranej w konkursie „Walentynkowa stylizacja” \U0001F495 organizowanym przez Sfinksy \U0001F604"
 featuredpost: false
 featuredimage: /img/renske-cat-bio.jpg
