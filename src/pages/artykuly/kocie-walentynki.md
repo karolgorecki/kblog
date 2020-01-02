@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kocie walentynki
-date: 2020-01-02T17:04:17.197Z
+date: 2019-02-14T17:04:17.197Z
 description: >+
   Kocie walentynki czyli słodka sesja zdjęciowa, opakowanie smaczków i próba
   rozbrojenia na części moich pierwszych scenografii.
