@@ -1,25 +1,37 @@
 ---
-templateKey: "about-page"
-path: /o-mnie
-title: About our values
+templateKey: about-page
+title: Witaj świecie
 ---
+## Witajcie kotomaniacy na Kocim Blogu gdzie będę pisać o kotkach i dla kotków, nie zabraknie tu wpisów dla ich sługusów. 😆
 
-### Shade-grown coffee
+### 🔊 Poznajcie nas bliżej
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Prowadzę stronę Kociaciocia.foto gdzie są śledzone i się dzieje w kocim świecie Kici i Kisielka.
 
-### Single origin
+### Fotografuję przede wszystkim wszystkim, chętnie wspieram adopciaki.
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Dziel się doświadczeniem, testuj kocie gadżety, poruszam ważne tematy na temat kotów.
 
-### Sustainable farming
+### A to wszystko dzięki nim:
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+# Kicia 🐾
 
-### Direct sourcing
+![](/img/67408356_373416443315872_5509120508722574988_n.jpg)
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Ma 2 latka. Znalezione nie kradzione 😉
 
-### Reinvest profits
+### Swojska kobita z niej, jak była mała to była niej niezły gryzoń. Bunt dwulatka mamy już za sobą, teraz to sama słodycz. Bawi się z Kisielkiem w ganowanym i liczą razem gołębie. Ale spokojnie z dziubków sobie nie jedzą 😆 Jak standardowe rodzeństwo
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Jej futerko jest ekstremalnie mięciutkie, głośno domaga się przytyła i nie odrzuca zawsze w południe 😎.
+
+# Kisiel 🐾
+
+![](/img/65824650_2296898113726702_1153373905310808501_n.jpg)
+
+### Ma 6 lat. Jest u nas 2 lata.
+
+### Kisiel to przyjaciel wszystkich ❤️
+
+### Ale najbardziej kocha swoją mamusie 😍 czyli mnie 💪
+
+### Bardzo towarzyski, chodzi za mną krok w kroku. Wstaje razem ze mną i chodzi spać też w tym czasie. Nie bierz po nocy bez celu, nie wybieraj z jedzeniem długo przez wymieniać, jest cudowny, ale wiecie co? Warto adoptować dorosłe koty🐾
