@@ -2,9 +2,9 @@
 templateKey: about-page
 title: Witaj świecie
 ---
-## Witajcie kotomaniacy. 
+Nazywam się Magdalena. Na facebooku i instagramie działam pod pseudonimem Kocia Ciocia. Kilka słów o mnie, kociara pełną gębą. 😆😆😆 Dopadło mnie zjawisko kotyfikacji. Wszystko kręci się wokół nich i wiecie co? dobrze mi z tym :)
 
-Na Kocim Blogu gdzie będę pisać o kotkach i dla kotków, nie zabraknie tu wpisów dla ich sługusów. 😆
+Na Kocim Blogu będę pisać o kotkach i dla kotków, nie zabraknie tu wpisów dla ich sługusów. 😆Ciekawostek głównie o czworonogach, a także recenzji i testów.
 
 🔊 Poznajcie nas bliżej
 
