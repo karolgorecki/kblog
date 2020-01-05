@@ -10,7 +10,7 @@ tags:
   - Renske CAT BIO
   - Recenzja
 ---
-![](/img/renske-cat-bio.jpg)
+![](/img/_dsc7680.jpg)
 
 Jak na prawdziwą damę przystało uraczyła mnie swoją uwagą i chęcią rozpakowania paczki📦. A że ma dobre serduszko zaprosiła też Kisielka, oba w pierwszej kolejności zaczęły testować karton 🧐 wnioski są takie: Solidnie wykonane, wygodne, może być 😁
 
