@@ -7,8 +7,9 @@ description: |
 featuredpost: false
 featuredimage: /img/dokocenie.jpg
 tags:
-  - dokocenie
-  - adopcja kota
+  - Dokocenie
+  - Adopcja
+  - Blog
 ---
 ## Koci Alert!
 
