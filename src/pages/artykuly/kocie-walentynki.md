@@ -9,9 +9,8 @@ description: >+
 featuredpost: false
 featuredimage: /img/walentynki.jpg
 tags:
-  - walentynki
-  - kocia sesja
-  - kocie walentynki
+  - Sesje zdjęciowe
+  - Blog
 ---
 ![](/img/29351783_2126330154320734_4704824224394806348_o.jpg)
 
