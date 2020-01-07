@@ -6,8 +6,9 @@ description: "Ktoś tu ma 1 urodzinki \U0001F60D\U0001F380\U0001F381\U0001F37E\n
 featuredpost: false
 featuredimage: /img/33825146_2162757537344662_4747652244793458688_o.jpg
 tags:
-  - urodziny
-  - sesja
+  - Sesje zdjęciowe
+  - Blog
+  - Inne
 ---
 ![](/img/34266498_2164712693815813_4078197672345862144_o.jpg)
 
