@@ -7,7 +7,6 @@ featuredpost: false
 featuredimage: /img/_dsc7680.jpg
 tags:
   - Recenzje
-  - Artykuły
   - Blog
 ---
 ![](/img/_dsc7680.jpg)
