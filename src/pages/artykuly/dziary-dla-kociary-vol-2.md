@@ -6,8 +6,9 @@ description: "Dziary dla Kociary to charytatywna akcja na rzecz zwierząt.\_W ak
 featuredpost: false
 featuredimage: /img/dziary-dla-kociary.jpg
 tags:
-  - dziary dla kociary
-  - reportaż
+  - Dziary dla kociary
+  - Sesje zdjęciowe
+  - Blog
 ---
 Zapraszam do obejrzenia foto reportaż 📸 z akcji charytatywnej Dziary dla Kociary vol.2. Osoby chcące wziąć udział zapisywały się wcześniej na liście.  Konsultując z Michałem swoje wzory. Całe wydarzenie miało miejsce 4 marca w studio Misiek Tattoo w Tarnowskich Górach. Na miejscu była już wolontariuszka, która reprezentowała fundacje i wspierała uczestników. Od progu w nozdrza uderzał zapach pachnących muffinek bananowych i świeżej kawy oraz słychać było zgrzytanie zębów. Żart, nie było, aż tak źle. Swoje uczestnictwo zgłosili sami miłośnicy tatuaży. Misiek ponownie stanął na wysokości zadania, wykonał niesamowite kocie podobizny. Które można podziwiać niżej.
 
