@@ -6,9 +6,9 @@ description: "Kicia pragnie się z wami podzielić swoją opinią na temat karmy
 featuredpost: false
 featuredimage: /img/_dsc7680.jpg
 tags:
-  - Renske Natural Polska
-  - Renske CAT BIO
-  - Recenzja
+  - Recenzje
+  - Artykuły
+  - Blog
 ---
 ![](/img/_dsc7680.jpg)
 
