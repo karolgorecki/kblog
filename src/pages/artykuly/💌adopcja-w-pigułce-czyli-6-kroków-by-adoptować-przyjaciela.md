@@ -6,7 +6,7 @@ description: >-
   Przedstawię wam jak wygląda ten strasznie długi proces adopcji, gdy już
   zobaczyłeś np.kota w internecie i skradł Twoje serce, co dalej? :⁠
 featuredpost: false
-featuredimage: /img/62248915_155368112265161_7790724241857524336_n.jpg
+featuredimage: /img/best-2-p.png
 tags:
   - Adopcja
   - Artykuły

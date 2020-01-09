@@ -4,7 +4,7 @@ title: Renske CAT BIO
 date: 2019-03-11T22:44:05.575Z
 description: "Kicia pragnie się z wami podzielić swoją opinią na temat karmy Renske Natural Polska wygranej w konkursie „Walentynkowa stylizacja” \U0001F495 organizowanym przez Sfinksy \U0001F604"
 featuredpost: false
-featuredimage: /img/_dsc7680.jpg
+featuredimage: /img/_dsc7680mini345.jpg
 tags:
   - Recenzje
   - Blog
@@ -50,3 +50,5 @@ Bardzo dziękujemy i ślemy pozdrowienia
 ![](/img/_dsc7725.jpg)
 
 ![]()
+
+![](/img/_dsc7680.jpg)

@@ -7,7 +7,7 @@ description: >+
   rozbrojenia na części moich pierwszych scenografii.
 
 featuredpost: false
-featuredimage: /img/walentynki.jpg
+featuredimage: /img/kicia-001.jpg
 tags:
   - Sesje zdjęciowe
   - Blog
