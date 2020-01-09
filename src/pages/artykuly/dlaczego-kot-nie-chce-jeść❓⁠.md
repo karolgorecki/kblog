@@ -4,7 +4,7 @@ title: Dlaczego kot nie chce jeść❓⁠
 date: 2019-07-04T01:28:00.000Z
 description: 'W sumie to wyjścia są dwa zaburzenia behawioralne lub zdrowotne. '
 featuredpost: false
-featuredimage: /img/best-3a-.jpg
+featuredimage: /img/best-3a-p.jpg
 tags:
   - Artykuły
   - Blog
