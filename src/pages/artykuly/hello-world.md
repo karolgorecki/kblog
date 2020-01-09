@@ -5,7 +5,7 @@ date: 2018-04-03T19:42:00.000Z
 description: |
   Śpieszę z radosną nowiną, że mamy nowego osobnika w domu.
 featuredpost: false
-featuredimage: /img/dokocenie.jpg
+featuredimage: /img/kisi-001.jpg
 tags:
   - Dokocenie
   - Adopcja
