@@ -47,7 +47,7 @@ $black: #2b2523
 
 .full-width-image
   width: 100vw
-  height: 400px
+  height: 500px
   background-size: cover
   background-position: bottom
   display: flex
@@ -124,17 +124,18 @@ $menu-label-color: $white-ter
   display: flex
   margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%
+  flex-basis: 25%
+  flex-shrink: 0
   margin: 0 1.5em 0 0
 
 @import "~bulma"
 
 // responsiveness
-+tablet-only
+  +tablet-only
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
 
-+mobile
+    +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
