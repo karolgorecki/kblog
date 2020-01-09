@@ -16,9 +16,9 @@ Dziele się doświadczeniem, testuje kocie gadżety, poruszam ważne tematy na t
 
 A to wszystko dzięki nim:
 
-## Kicia 🐾
+![](/img/kiciunia.png)
 
-![](/img/kicia.jpg)
+## Kicia 🐾
 
 Ma 2 latka. Znalezione nie kradzione 😉
 
@@ -26,9 +26,9 @@ Swojska kobita z niej, jak była mała to była niej niezły gryzoń. Bunt dwul
 
 Jej futerko jest ekstremalnie mięciutkie, głośno domaga się przytulania. To nasz rytuał zawsze w południe 😎.
 
-## Kisiel 🐾
+![](/img/kisiel.png)
 
-![](/img/kisiel.jpg)
+## Kisiel 🐾
 
 Ma 6 lat. Jest u nas 2 lata.
 
