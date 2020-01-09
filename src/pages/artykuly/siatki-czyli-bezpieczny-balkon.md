@@ -4,7 +4,7 @@ title: Siatki czyli bezpieczny balkon
 date: 2019-04-30T01:36:00.000Z
 description: "Moi drodzy gorący temat osiatkowania okien i balkonów ruszył na dobre \U0001F525"
 featuredpost: false
-featuredimage: /img/siatki-mini.jpg
+featuredimage: /img/kicia-002.jpg
 tags:
   - Artykuły
   - Blog
