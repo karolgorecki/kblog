@@ -8,11 +8,11 @@ Na Kocim Blogu będę pisać o kotkach i dla kotków, nie zabraknie tu wpisów d
 
 🔊 Poznajcie nas bliżej
 
-Prowadzę stronę Kociaciocia.foto gdzie są śledzone i się dzieje w kocim świecie Kici i Kisielka.
+Prowadzę stronę Kociaciocia.foto , można tam śledzić co się dzieje w kocim świecie Kici i Kisielka.
 
-Fotografuję przede wszystkim wszystkim, chętnie wspieram adopciaki.
+Fotografuję przede wszystkim koty, chętnie wspieram adopciaki.
 
-Dziel się doświadczeniem, testuj kocie gadżety, poruszam ważne tematy na temat kotów.
+Dziele się doświadczeniem, testuje kocie gadżety, poruszam ważne tematy na temat kotów.
 
 A to wszystko dzięki nim:
 
