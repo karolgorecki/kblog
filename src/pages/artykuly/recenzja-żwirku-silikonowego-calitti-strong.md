@@ -18,7 +18,7 @@ tags:
 
 Teraz trochę konkretów.
 
-Z czego dokładnie składa się żwirek bentonitowy?
+## Z czego dokładnie składa się żwirek bentonitowy?
 
 Żwirek bentonitowy to naturalne podłoże ponieważ pochodzi ze skały osadowej. Występuje w postaci mniejszych lub większych kamyczków w odcieniach brązu. Dostępne w dwóch wersjach zapachowych naturalnej i lawendowej. Producenci wychodząc naprzeciw oczekiwaniom naszym kociastym zadbali by było w czym wybierać.  Głównym zadaniem bentonitu jest absorpcja cieczy i zapachu.
 
@@ -36,25 +36,25 @@ Istotna kwestia i zmora niejednego bentonitu: Czy pyli? Czy się zbryla? Czy si�
 
 ![](/img/_dsc8648.jpg)
 
-Czy pyli?
+## Czy pyli?
 
 Za pierwszym razem, gdy go wsypywałam z normalnej wysokości nie pylił jakoś mocno. Czułam minimalnie zapach pyłu, ale nie dostałam zasłoną dymną w twarz. Podkreśliłam, że za pierwszym razem nie pylił dlatego, że chciałam zrobić kolejne ujęcie do filmu i czynność powtórzyłam 3 razy pod rząd no to już w nosie zakręciło :P 
 
 ![](/img/_dsc8724.jpg)
 
-Czy się zbryla?
+## Czy się zbryla?
 
 Zbryla się bardzo dobrze. Co ułatwia wybieranie zbitych kulek. Kolejna kwestia to czy się ślimaczy. Niby nie, ale Kisiel sika na ściany kuwety i to dość sporą ilość. Żwirek się zbryla w twardą postać i troszkę trzeba go rozłupać na mniejsze kawałki. Raz o mało łopatki nie złamałam :D Czyli Tak, bardzo dobrze spełnia swoją rolę.
 
 ![](/img/_dsc8685.jpg)
 
-Czy się roznosi po domu?
+## Czy się roznosi po domu?
 
 Kicia jako pierwsza się zainteresowała nowym podłożem w kuwecie. Myślałam, że pęknę ze śmiechu jak grzebała łapką i zaczęła jakby wąchać te rozczapirzone kocie paluszki. Troszkę się pobawiła kamyczkami, rozkopywała aż w końcu zrobiła szybkie siku. Zakopała po sobie więc jest sukces bo ta pannica czasami o tym zapomina. Czy się roznosi? Żwirek nasypałam do krytej kuwety, wychodząc kotki otrzepują łapki, więc jeśli ktoś korzysta z otwartej kuwety na pewno musi się liczyć z tym że będzie troszkę żwirku wokół. Te kamyczki są małe i lekkie więc nic dziwnego, że  wchodzą między paluszki. Ilość żwirku pozostawiana poza  kuwetą jest w normie (porównując do tych które miałam wcześniej). 
 
 ![](/img/_dsc8467.jpg)
 
-Czy niweluje zapach moczu?
+## Czy niweluje zapach moczu?
 
 Uważam, że tak. Mam na myśli Calitti wersję neutralną. Pierwszy żwirek bentonitowy ‘no name’ miał bardzo specyficzny zapach w połączeniu z moczem . 
 
@@ -68,28 +68,20 @@ Ważne info
 
 Jak głosi ustawa z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków art.9 
 
-NIE można utylizować żwirku bentonitowego w toalecie. 
+**NIE można utylizować żwirku bentonitowego w toalecie.** 
 
 ![](/img/_dsc8485.jpg)
 
- 
+## Podsumowanie
 
-
-
-Podsumowanie
-
-
-
-Plusy:
+**Plusy:**
 
 * Żwirek dobrze się zbryla
 * Łatwy w utrzymaniu czystości, 
 * Jest ekonomiczny
 * Możliwość wyboru zapachu
 
- 
-
-Minusy:
+**Minusy:**
 
 * Podczas wsypywania kilku worków na raz trochę się pyli 
 * Trochę roznosi się wokół kuwety
@@ -99,7 +91,5 @@ Pamiętaj uszanuj wybór swojego kota.
 Mój wniosek
 
 Calitti Cat Litter odczarował żwirki bentonitowe. 
-
- 
 
 ![](/img/_dsc8448.jpg)
