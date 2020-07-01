@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Recenzja żwirku silikonowego Calitti Strong
+title: Recenzja żwirku bentonitowego Calitti Strong
 date: 2020-06-15T20:54:16.697Z
 description: >-
   Dziś chcę się z wami podzielić moimi wrażeniami po testach żwirku
